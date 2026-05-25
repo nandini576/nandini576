@@ -47,19 +47,27 @@ Web Development, AI
 
 ## 🌟 Projects
 
-### 🔹 Student Feedback Management System *(Ongoing)*
+### 🔹 Expense Tracker
 
-**Tech Stack:** MERN Stack
+**Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js), JWT, Vercel, Render
+
 **Description:**
-A system to collect and manage student feedback efficiently. Implements authentication using JWT and role-based authorization. Currently developing core features and improving user interaction.
+A full-stack Expense Tracker application that allows users to manage expenses, track budgets, and analyze spending habits. Implemented JWT authentication, CRUD operations, budget management, and risk analysis features. Built and deployed using Vercel and Render.
+
+🔗 Live Demo:
+https://expense-tracker-opal-six-75.vercel.app/
 
 ---
 
 ### 🔹 Portfolio Website
 
 **Tech Stack:** HTML, CSS
+
 **Description:**
 A personal portfolio website showcasing my profile, skills, and learning journey.
+
+🔗 Live Demo:
+https://konanandiniportofolio.netlify.app/
 
 ---
 
